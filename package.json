@@ -1,0 +1,16 @@
+{
+  "name": "consumirscriptcsv",
+  "version": "1.0.0",
+  "description": "practice script csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dupla Nickthi",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.8.10",
+    "git-commit-msg-linter": "^5.0.4",
+    "typescript": "^5.2.2"
+  }
+}
